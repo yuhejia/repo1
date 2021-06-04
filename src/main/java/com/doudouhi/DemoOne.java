@@ -6,6 +6,7 @@ package com.doudouhi;
 public class DemoOne {
     public static void main(String[] args) {
         System.out.println("hello git !!");
-        System.out.println("hello git 22222 !!");
+        System.out.println("hello git 8768 !!");
+        System.out.println("hello git 44444 !!");
     }
 }
