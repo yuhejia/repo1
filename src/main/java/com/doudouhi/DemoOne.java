@@ -17,7 +17,7 @@ public class DemoOne {
         list.add(4,"string");
         list.add(5,"admin");
         list.add(6,"class");
-        list.add(7,"9999");
+        list.add(7,"8888");
         for (String s : list) {
             System.out.println(s);
         }
