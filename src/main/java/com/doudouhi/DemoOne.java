@@ -15,6 +15,7 @@ public class DemoOne {
         list.add(2,"string");
         list.add(3,"string");
         list.add(4,"string");
+        list.add(5,"string");
         for (String s : list) {
             System.out.println(s);
         }
