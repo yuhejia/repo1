@@ -10,10 +10,10 @@ public class DemoOne {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         //顺序不能乱
-        list.add(0,"string");
-        list.add(1,"string");
-        list.add(2,"string");
-        list.add(3,"string");
+        list.add(0,"minutes");
+        list.add(1,"second");
+        list.add(2,"commit");
+        list.add(3,"doudouhi");
         list.add(4,"string");
         list.add(5,"string");
         list.add(6,"string");
