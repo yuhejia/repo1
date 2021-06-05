@@ -1,12 +1,23 @@
 package com.doudouhi;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author admin
  */
 public class DemoOne {
     public static void main(String[] args) {
-        System.out.println("hello git !!");
-        System.out.println("hello git 8768 !!");
-        System.out.println("hello git 44444 !!");
+        List<String> list = new ArrayList<>();
+        //顺序不能乱
+        list.add(0,"string");
+        list.add(1,"string");
+        list.add(2,"string");
+        list.add(3,"string");
+        list.add(4,"string");
+        for (String s : list) {
+            System.out.println(s);
+        }
+
     }
 }
