@@ -15,9 +15,9 @@ public class DemoOne {
         list.add(2,"commit");
         list.add(3,"doudouhi");
         list.add(4,"string");
-        list.add(5,"string");
-        list.add(6,"string");
-        list.add(7,"string");
+        list.add(5,"admin");
+        list.add(6,"class");
+        list.add(7,"demo");
         for (String s : list) {
             System.out.println(s);
         }
